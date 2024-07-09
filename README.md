@@ -54,7 +54,7 @@ The project is organized as follows:
 
 Bar charts were generated to show the total number of time points for all mice tested for each drug regimen using both Pandas and Matplotlib.
 
-![Analysis Report Document Link](https:/https://github.com/maslla100/mathplothlib/Analysisi%Report.md)
+![Analysis Report Document Link](https://github.com/maslla100/mathplothlib/blob/main/Analysis%20Report.md)
 
 ## Instructions
 
